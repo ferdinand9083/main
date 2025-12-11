@@ -1,0 +1,7 @@
+# From test_1.conf
+app_name: MyApp
+dependencies:
+- lib1
+- lib2
+- lib3
+version: 1

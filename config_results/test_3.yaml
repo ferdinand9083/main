@@ -1,0 +1,11 @@
+# From test_3.conf
+host: 127.0.0.1
+port: 8080
+routes:
+- /api
+- /status
+- /config
+timeouts:
+- '5'
+- '10'
+- '15'
